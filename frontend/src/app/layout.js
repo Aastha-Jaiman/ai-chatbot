@@ -9,6 +9,7 @@ export const metadata = {
   description: "A ChatGPT-style premium Gemini AI Assistant",
 };
 
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
